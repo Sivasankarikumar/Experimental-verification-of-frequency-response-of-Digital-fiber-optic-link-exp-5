@@ -128,11 +128,10 @@ not remove the cap from the connector. Once the cap is loosened, insert the one 
 cap. Now tighten the cap by screwing it back.
 ▪ Observe the detected signal at post TTL OUT on oscilloscope.
 # TABULATION:
-<img width="1523" height="1600" alt="image" src="https://github.com/user-attachments/assets/4aea81d1-4790-41f2-b634-7005c4d8c8c8" />
+![WhatsApp Image 2025-11-24 at 6 21 13 AM](https://github.com/user-attachments/assets/ab4fed1f-0746-4129-8eb8-8616b473f61c)
 
 # GRAPH:
-<img width="963" height="1279" alt="image" src="https://github.com/user-attachments/assets/e986ac0a-94d2-41db-94dd-94d9d1f08ab3" />
+![WhatsApp Image 2025-11-24 at 6 21 13 AM(1)](https://github.com/user-attachments/assets/1b092386-c3d7-4551-8cad-e03888a2d25d)
 
-# RESULT:
 The transmission and reproduction of digital signals through 660nm and 950nm files optic digital links were sucessfully studied are verified.
 
