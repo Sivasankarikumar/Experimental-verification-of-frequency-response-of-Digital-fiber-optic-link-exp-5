@@ -6,7 +6,7 @@ transmitted over Fiber Cable & reproduced at the receiver end.
 ▪ Link-B Kit with power supply.
 ▪ Patch chords.
 ▪ 20MHz Dual Channel Oscilloscope.
-▪ 1 MHz Function Generator.
+▪ 1 MHz Function Generator
 ▪ 1 Meter Fiber Cable.
 # THEORY:
 Fiber optic links can be used for transmission of digital as well as analog signals. Basically a fiber 
